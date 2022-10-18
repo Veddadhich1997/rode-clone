@@ -6,7 +6,7 @@ I am Ved Dadhich.I'm a front‑end developer focused on crafting clean & user‑
 
 In this project I have created a clone of rode.com website.😊
 
-## Portfolio Link
+## Link
 
 https://rodeclone1.netlify.app/
 
