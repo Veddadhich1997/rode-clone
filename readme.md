@@ -26,7 +26,7 @@ https://rodeclone1.netlify.app/
 
 ## Support
 
-For support, email dadhichved1997@gmail.com or join our Slack channel.
+For support, email dadhichved1997@gmail.com
 
 ## 🔗 Social Links
 
